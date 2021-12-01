@@ -1,4 +1,4 @@
-# Naive Bais algorithm
+# Naive Bias algorithm
 This program is written including the biasing estimate(m-estimate)
 
 P(ai|vj)= (nc + m*p)/(n+m)
